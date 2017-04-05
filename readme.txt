@@ -6,3 +6,5 @@ Creating a new branch is quick.
 
 
 aaaaaaa
+
+Creating a new branch is quick & simple.
