@@ -12,3 +12,4 @@ aiyou bucuoo!
 
 
 I am jay zhou!
+I am jay chou!
